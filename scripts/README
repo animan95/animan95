@@ -1,0 +1,11 @@
+                                            *************************************
+                                            *                                   *
+                                            *          CT PARAMETERS            *
+                                            *        EXTRACTION SCRIPT          *
+                                            *                                   *
+                                            *************************************
+1. Run state_analysis = true in rem section, preferably run rpa = 2 (for TDA the script works fine but the ordering becomes weird)
+2. Run d_tildc.sh , this runs all the scripts and stores all the important values in a file {$input_file_name}_comp.txt
+3  The elements in the _comp.txt file are printed in the order ->
+
+| Excitation Energy | Oscillator Strength | Lambda | dcd | d_~cd | Gamma |
