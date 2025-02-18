@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mandal.46@osu.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- This repository contains some the scripts I use for my work and some toy projects that I have been working on.
+
 
 <!---
 animan95/animan95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
